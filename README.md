@@ -1,4 +1,4 @@
-# Steam Hour Booste
+# Steam Hour Boost
 
 ## Installation [Manual]
 ```
