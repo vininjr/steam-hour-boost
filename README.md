@@ -9,5 +9,5 @@ npm install
 
 ## Startup [Manual]
 ```
-node idleConfig.js <YOUR_USERNAME> <YOUR_PASSWORD>
+node idleConfig.js <YOUR_USERNAME> <YOUR_PASSWORD> optional<shared_key>
 ```
