@@ -2,7 +2,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/clownless/steam-hour-boost.git
+git clone https://github.com/vininjr/steam-hour-boost.git
 cd steam-hour-boost
 npm install
 ```
