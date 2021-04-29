@@ -9,5 +9,5 @@ npm install
 
 ### Startup
 ```bash
-node idleConfig.js <YOUR_USERNAME> <YOUR_PASSWORD> optional<SHARED_KEY> optional<GAME_IDS>
+node idlerConfig.js <YOUR_USERNAME> <YOUR_PASSWORD> optional<SHARED_KEY> optional<GAME_IDS>
 ```
