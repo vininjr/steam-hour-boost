@@ -1,13 +1,13 @@
 # Steam Hour Boost
 
-## Installation [Manual]
-```
+### Installation
+```bash
 git clone https://github.com/vininjr/steam-hour-boost.git
 cd steam-hour-boost
 npm install
 ```
 
-## Startup [Manual]
-```
-node idleConfig.js <YOUR_USERNAME> <YOUR_PASSWORD> optional<SHARED_KEY>
+### Startup
+```bash
+node idlerConfig.js <YOUR_USERNAME> <YOUR_PASSWORD> optional<SHARED_KEY> optional<GAME_IDS>
 ```

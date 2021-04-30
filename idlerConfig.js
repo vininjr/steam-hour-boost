@@ -9,10 +9,10 @@ if (!argv[0] || !argv[1]) {
 }
 
 config = {};
-config.username = argv[0]; // YOUR_USERNAME
-config.password = argv[1]; // YOUR_PASSWORD
+config.username = argv[0];
+config.password = argv[1];
 config.sharedSecret = argv[2] || ''; // OPTIONAL
-config.games = [730]; // 730 = CSGO. Exemple [730,107410] // 107410 correspond a Arma 3.
+config.games = argv[3] || '730'; // 730 = CSGO. Example '730,107410' // 107410 correspond a Arma 3.
 configsArray.push(config);
 
 for (index = 0; index < configsArray.length; index++) {
